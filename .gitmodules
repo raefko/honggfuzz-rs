@@ -1,4 +1,4 @@
 [submodule "honggfuzz"]
 	path = honggfuzz
-	url = https://github.com/raefko/honggfuzz
+	url = https://github.com/raefko/honggfuzz.git
 	branch = patch_display
